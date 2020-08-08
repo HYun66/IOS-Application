@@ -16,7 +16,7 @@ Core Functionalities
 10. Whenthegamestops,theplayer’sscoreshallbesavedinapersistentfile(ordatabase) that contains all players’ names and their highest scores.
 11. Attheendofthegame,ahighscoreboardshallbedisplayedwiththenamesandscores of the highest ranking players. 
 
-Extended Functionalities (please do not start on these until finishing CFs)
+Extended Functionalities 
 1. In addition to core function 7 and 9, displayed bubbles shall move and go off the screen if they are not removed earlier. Their moving speed shall increase as the game timer counts down. You decide the rate of change with respect to the game timer.
 2. Animations of game state transitions. For example, including:  bubbles shrinking and growing when removed or tapped; the highest score in the scoreboard shall be displayed during gameplay.
 
